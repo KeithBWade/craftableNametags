@@ -1,0 +1,4 @@
+name: craftableNameTags
+main: com.keith.craftableNametags.recipe
+version: 1.0
+commands:
